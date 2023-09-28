@@ -1,6 +1,6 @@
 # Website Copy Analyzer
 
-![Website Copy Analyzer Screenshot](https://github.com/andresolerc/website-copy-analyzer/raw/main/website-copy-analyser.png)
+![Website Copy Analyzer Screenshot](https://github.com/andresolerc/website-copy-analyser/blob/main/website-copy-analyser.png)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -57,16 +57,16 @@ Website Copy Analyzer is a state-of-the-art tool designed to empower marketers, 
 The application can be configured by modifying the app.py file (if available) or by setting environment variables. Refer to the application documentation for a list of available configuration options.
 
 ## Contributing
-We welcome contributions from the community! For details on how to contribute, please read our ![Contributing Guidelines](https://chat.openai.com/c/CONTRIBUTING.md). Adherence to our ![Code of Conduct](https://chat.openai.com/c/CODE_OF_CONDUCT.md) is expected.
+We welcome contributions from the community! For details on how to contribute, please read our [Contributing Guidelines](https://chat.openai.com/c/CONTRIBUTING.md). Adherence to our [Code of Conduct](https://chat.openai.com/c/CODE_OF_CONDUCT.md) is expected.
 
 ## Support
 If you encounter any issues or require further assistance, please raise an issue on the GitHub repository, and we will address it promptly.
 
 ## License
-This project is licensed under the MIT License. See the ![LICENSE](https://chat.openai.com/c/LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://chat.openai.com/c/LICENSE) file for more information.
 
 ## Acknowledgements
-![OpenAI](https://www.openai.com/) for the incredible GPT-4 API.
-![Streamlit](https://streamlit.io/) for providing an amazing web application framework.
-![Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for enabling efficient HTML scraping.
+[OpenAI](https://www.openai.com/) for the incredible GPT-4 API.
+[Streamlit](https://streamlit.io/) for providing an amazing web application framework.
+[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for enabling efficient HTML scraping.
 
