@@ -57,13 +57,13 @@ Website Copy Analyzer is a state-of-the-art tool designed to empower marketers, 
 The application can be configured by modifying the app.py file (if available) or by setting environment variables. Refer to the application documentation for a list of available configuration options.
 
 ## Contributing
-We welcome contributions from the community! For details on how to contribute, please read our [Contributing Guidelines](https://chat.openai.com/c/CONTRIBUTING.md). Adherence to our [Code of Conduct](https://chat.openai.com/c/CODE_OF_CONDUCT.md) is expected.
+We welcome contributions from the community! For details on how to contribute, please read our [Contributing Guidelines](https://github.com/github/docs/blob/310c7e7c46de2ffcddfb31ca640a76a2543442e0/CONTRIBUTING.md). Adherence to our [Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct) is expected.
 
 ## Support
 If you encounter any issues or require further assistance, please raise an issue on the GitHub repository, and we will address it promptly.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://chat.openai.com/c/LICENSE) file for more information.
+This project is licensed under the Apache License. See the [LICENSE](https://github.com/andresolerc/website-copy-analyser/blob/main/LICENSE) file for more information.
 
 ## Acknowledgements
 [OpenAI](https://www.openai.com/) for the incredible GPT-4 API.
